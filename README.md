@@ -53,13 +53,6 @@ This `README.md` walks you step-by-step from creating a Firebase project to inst
 ### Windows / macOS / Linux (recommended method)
 
 1. Visit https://nodejs.org/en/download/ and download the **LTS installer** for your OS.
-
-### 📸 Screenshot (Node.js download page)
-> **Insert your screenshot below:**
-```
-![Node.js Download Page](./images/install nodejs.PNG)
-```
-
 2. Run the installer and follow instructions.
 3. Verify installation in a terminal:
 
@@ -242,4 +235,5 @@ If you want, I can:
 - Generate a production-ready example with Firebase Auth and rules.
 
 Happy coding! 🚀
+
 
